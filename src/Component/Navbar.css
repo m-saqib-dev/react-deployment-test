@@ -1,0 +1,13 @@
+a{
+    font-size: 1em;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+    font-family:'open sans';
+}
+.nav{
+    display: flex;
+    justify-content: right;
+    color: red;
+    justify-content: right;
+}
